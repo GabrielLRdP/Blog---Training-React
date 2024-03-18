@@ -83,3 +83,15 @@ h2 {
   display: flex;
   gap: 20px;
 }
+
+footer {
+  background-color: rgb(170, 170, 170);
+  text-align: center;
+  padding: 30px;
+  font-size: small;
+  color: rgb(40, 40, 40);
+}
+
+footer span {
+  font-weight: bold;
+}
